@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hp/Desktop/internship/mlops/sentimental_analysis_mlflow/mlruns/651949166381951733/f6cc87bac178481daccc9ac46b90fcb0/artifacts
+end_time: 1711612544457
+entry_point_name: ''
+experiment_id: '651949166381951733'
+lifecycle_stage: active
+run_id: f6cc87bac178481daccc9ac46b90fcb0
+run_name: delicate-rook-49
+run_uuid: f6cc87bac178481daccc9ac46b90fcb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711611800926
+status: 3
+tags: []
+user_id: hp

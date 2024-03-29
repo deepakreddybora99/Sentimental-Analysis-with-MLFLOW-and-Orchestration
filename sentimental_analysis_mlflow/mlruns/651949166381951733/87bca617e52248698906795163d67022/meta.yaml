@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hp/Desktop/internship/mlops/sentimental_analysis_mlflow/mlruns/651949166381951733/87bca617e52248698906795163d67022/artifacts
+end_time: 1711611797022
+entry_point_name: ''
+experiment_id: '651949166381951733'
+lifecycle_stage: active
+run_id: 87bca617e52248698906795163d67022
+run_name: caring-jay-281
+run_uuid: 87bca617e52248698906795163d67022
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711611754150
+status: 3
+tags: []
+user_id: hp

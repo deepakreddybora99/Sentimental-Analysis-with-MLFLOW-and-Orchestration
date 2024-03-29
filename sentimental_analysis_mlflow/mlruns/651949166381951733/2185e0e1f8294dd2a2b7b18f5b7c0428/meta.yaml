@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hp/Desktop/internship/mlops/sentimental_analysis_mlflow/mlruns/651949166381951733/2185e0e1f8294dd2a2b7b18f5b7c0428/artifacts
+end_time: 1711611797022
+entry_point_name: ''
+experiment_id: '651949166381951733'
+lifecycle_stage: active
+run_id: 2185e0e1f8294dd2a2b7b18f5b7c0428
+run_name: calm-penguin-69
+run_uuid: 2185e0e1f8294dd2a2b7b18f5b7c0428
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711611754150
+status: 3
+tags: []
+user_id: hp

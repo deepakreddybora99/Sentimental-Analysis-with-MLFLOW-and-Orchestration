@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hp/Desktop/internship/mlops/sentimental_analysis_mlflow/mlruns/651949166381951733/6b00fce5e53d4c809da769bd442754e8/artifacts
+end_time: 1711614015601
+entry_point_name: ''
+experiment_id: '651949166381951733'
+lifecycle_stage: active
+run_id: 6b00fce5e53d4c809da769bd442754e8
+run_name: secretive-sponge-563
+run_uuid: 6b00fce5e53d4c809da769bd442754e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711613992846
+status: 3
+tags: []
+user_id: hp

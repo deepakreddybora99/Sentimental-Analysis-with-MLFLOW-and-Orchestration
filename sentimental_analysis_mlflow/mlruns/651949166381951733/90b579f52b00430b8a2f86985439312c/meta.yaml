@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hp/Desktop/internship/mlops/sentimental_analysis_mlflow/mlruns/651949166381951733/90b579f52b00430b8a2f86985439312c/artifacts
+end_time: 1711614775047
+entry_point_name: ''
+experiment_id: '651949166381951733'
+lifecycle_stage: active
+run_id: 90b579f52b00430b8a2f86985439312c
+run_name: carefree-rat-812
+run_uuid: 90b579f52b00430b8a2f86985439312c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711614078944
+status: 3
+tags: []
+user_id: hp

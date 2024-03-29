@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hp/Desktop/internship/mlops/sentimental_analysis_mlflow/mlruns/651949166381951733/c7cd145cce7742dc829955bb6fdbb957/artifacts
+end_time: 1711614072921
+entry_point_name: ''
+experiment_id: '651949166381951733'
+lifecycle_stage: active
+run_id: c7cd145cce7742dc829955bb6fdbb957
+run_name: gaudy-wren-667
+run_uuid: c7cd145cce7742dc829955bb6fdbb957
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711614018817
+status: 3
+tags: []
+user_id: hp

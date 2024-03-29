@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hp/Desktop/internship/mlops/sentimental_analysis_mlflow/mlruns/651949166381951733/1c5f45b357ac489e8e90d114bde33bfc/artifacts
+end_time: 1711612544457
+entry_point_name: ''
+experiment_id: '651949166381951733'
+lifecycle_stage: active
+run_id: 1c5f45b357ac489e8e90d114bde33bfc
+run_name: efficient-fowl-624
+run_uuid: 1c5f45b357ac489e8e90d114bde33bfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711611800926
+status: 3
+tags: []
+user_id: hp

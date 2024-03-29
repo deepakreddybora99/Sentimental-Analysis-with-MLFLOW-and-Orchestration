@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hp/Desktop/internship/mlops/sentimental_analysis_mlflow/mlruns/651949166381951733/432c34c460a0471da8ea0dd16fecd19e/artifacts
+end_time: 1711614015601
+entry_point_name: ''
+experiment_id: '651949166381951733'
+lifecycle_stage: active
+run_id: 432c34c460a0471da8ea0dd16fecd19e
+run_name: thoughtful-crane-215
+run_uuid: 432c34c460a0471da8ea0dd16fecd19e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711613992846
+status: 3
+tags: []
+user_id: hp

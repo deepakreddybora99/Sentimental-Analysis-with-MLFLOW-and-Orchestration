@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hp/Desktop/internship/mlops/sentimental_analysis_mlflow/mlruns/651949166381951733/5d1d5e515e9f4b319c9afce17a494979/artifacts
+end_time: 1711614775047
+entry_point_name: ''
+experiment_id: '651949166381951733'
+lifecycle_stage: active
+run_id: 5d1d5e515e9f4b319c9afce17a494979
+run_name: crawling-grouse-978
+run_uuid: 5d1d5e515e9f4b319c9afce17a494979
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711614078944
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hp/Desktop/internship/mlops/sentimental_analysis_mlflow/mlruns/651949166381951733/1a7b601b93f74969bd5021797c6ae4af/artifacts
+end_time: 1711612544457
+entry_point_name: ''
+experiment_id: '651949166381951733'
+lifecycle_stage: active
+run_id: 1a7b601b93f74969bd5021797c6ae4af
+run_name: carefree-midge-322
+run_uuid: 1a7b601b93f74969bd5021797c6ae4af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711611800926
+status: 3
+tags: []
+user_id: hp

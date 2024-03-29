@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hp/Desktop/internship/mlops/sentimental_analysis_mlflow/mlruns/651949166381951733/204d1c0a2328499e80d533603e88fb79/artifacts
+end_time: 1711612544457
+entry_point_name: ''
+experiment_id: '651949166381951733'
+lifecycle_stage: active
+run_id: 204d1c0a2328499e80d533603e88fb79
+run_name: bouncy-wolf-780
+run_uuid: 204d1c0a2328499e80d533603e88fb79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711611800926
+status: 3
+tags: []
+user_id: hp

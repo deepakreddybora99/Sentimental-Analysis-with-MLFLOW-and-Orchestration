@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hp/Desktop/internship/mlops/sentimental_analysis_mlflow/mlruns/651949166381951733/1c4e8c0eff9d44948e41151dcdcf3991/artifacts
+end_time: 1711614072921
+entry_point_name: ''
+experiment_id: '651949166381951733'
+lifecycle_stage: active
+run_id: 1c4e8c0eff9d44948e41151dcdcf3991
+run_name: rumbling-hare-253
+run_uuid: 1c4e8c0eff9d44948e41151dcdcf3991
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711614018817
+status: 3
+tags: []
+user_id: hp

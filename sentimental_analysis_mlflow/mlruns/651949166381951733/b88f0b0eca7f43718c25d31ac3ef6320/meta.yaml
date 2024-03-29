@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hp/Desktop/internship/mlops/sentimental_analysis_mlflow/mlruns/651949166381951733/b88f0b0eca7f43718c25d31ac3ef6320/artifacts
+end_time: 1711614072921
+entry_point_name: ''
+experiment_id: '651949166381951733'
+lifecycle_stage: active
+run_id: b88f0b0eca7f43718c25d31ac3ef6320
+run_name: treasured-mare-306
+run_uuid: b88f0b0eca7f43718c25d31ac3ef6320
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711614018817
+status: 3
+tags: []
+user_id: hp

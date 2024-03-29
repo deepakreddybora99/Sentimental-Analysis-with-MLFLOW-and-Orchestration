@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hp/Desktop/internship/mlops/sentimental_analysis_mlflow/mlruns/651949166381951733/910ed92409c147c8a72acd0645342320/artifacts
+end_time: 1711614775047
+entry_point_name: ''
+experiment_id: '651949166381951733'
+lifecycle_stage: active
+run_id: 910ed92409c147c8a72acd0645342320
+run_name: merciful-rook-684
+run_uuid: 910ed92409c147c8a72acd0645342320
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711614078944
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hp/Desktop/internship/mlops/sentimental_analysis_mlflow/mlruns/651949166381951733/4db0aba588cc46a48f1bd6aae1c263c6/artifacts
+end_time: 1711612556090
+entry_point_name: ''
+experiment_id: '651949166381951733'
+lifecycle_stage: active
+run_id: 4db0aba588cc46a48f1bd6aae1c263c6
+run_name: Log_reg_run
+run_uuid: 4db0aba588cc46a48f1bd6aae1c263c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711611800926
+status: 3
+tags: []
+user_id: hp

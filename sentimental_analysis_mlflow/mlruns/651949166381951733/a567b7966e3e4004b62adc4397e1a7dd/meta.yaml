@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hp/Desktop/internship/mlops/sentimental_analysis_mlflow/mlruns/651949166381951733/a567b7966e3e4004b62adc4397e1a7dd/artifacts
+end_time: 1711611751723
+entry_point_name: ''
+experiment_id: '651949166381951733'
+lifecycle_stage: active
+run_id: a567b7966e3e4004b62adc4397e1a7dd
+run_name: bedecked-shad-768
+run_uuid: a567b7966e3e4004b62adc4397e1a7dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711611727842
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,4 @@
+Pipeline(memory=Memory(location=.cache\joblib),
+         steps=[('vectorization',
+                 CountVectorizer(preprocessor=<function clean at 0x000002BBE9DB9FC0>)),
+                ('classifier', DecisionTreeClassifier())])

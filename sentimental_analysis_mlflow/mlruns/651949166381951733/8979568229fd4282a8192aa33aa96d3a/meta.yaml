@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hp/Desktop/internship/mlops/sentimental_analysis_mlflow/mlruns/651949166381951733/8979568229fd4282a8192aa33aa96d3a/artifacts
+end_time: 1711611751723
+entry_point_name: ''
+experiment_id: '651949166381951733'
+lifecycle_stage: active
+run_id: 8979568229fd4282a8192aa33aa96d3a
+run_name: judicious-calf-110
+run_uuid: 8979568229fd4282a8192aa33aa96d3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711611727842
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hp/Desktop/internship/mlops/sentimental_analysis_mlflow/mlruns/651949166381951733/62cff47cc8ab4a06b071a453f8abeb1e/artifacts
+end_time: 1711614018231
+entry_point_name: ''
+experiment_id: '651949166381951733'
+lifecycle_stage: active
+run_id: 62cff47cc8ab4a06b071a453f8abeb1e
+run_name: naive_bayes_run
+run_uuid: 62cff47cc8ab4a06b071a453f8abeb1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711613992846
+status: 3
+tags: []
+user_id: hp

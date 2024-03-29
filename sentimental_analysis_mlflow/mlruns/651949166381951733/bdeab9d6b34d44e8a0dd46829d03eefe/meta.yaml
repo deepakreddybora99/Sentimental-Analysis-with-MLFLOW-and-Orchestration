@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hp/Desktop/internship/mlops/sentimental_analysis_mlflow/mlruns/651949166381951733/bdeab9d6b34d44e8a0dd46829d03eefe/artifacts
+end_time: 1711612544457
+entry_point_name: ''
+experiment_id: '651949166381951733'
+lifecycle_stage: active
+run_id: bdeab9d6b34d44e8a0dd46829d03eefe
+run_name: charming-sheep-482
+run_uuid: bdeab9d6b34d44e8a0dd46829d03eefe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711611800926
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1711612989119
+current_stage: Deleted_Internal
+description: ''
+last_updated_timestamp: 1711614768351
+name: sentimental_analysis_experiments
+run_id: 4db0aba588cc46a48f1bd6aae1c263c6
+run_link: ''
+source: file:///c:/Users/hp/Desktop/internship/mlops/sentimental_analysis_mlflow/mlruns/651949166381951733/4db0aba588cc46a48f1bd6aae1c263c6/artifacts/best_estimator
+status: READY
+status_message: null
+storage_location: file:///c:/Users/hp/Desktop/internship/mlops/sentimental_analysis_mlflow/mlruns/651949166381951733/4db0aba588cc46a48f1bd6aae1c263c6/artifacts/best_estimator
+user_id: null
+version: 1

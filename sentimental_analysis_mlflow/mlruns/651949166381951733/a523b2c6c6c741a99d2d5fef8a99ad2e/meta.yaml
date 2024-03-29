@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hp/Desktop/internship/mlops/sentimental_analysis_mlflow/mlruns/651949166381951733/a523b2c6c6c741a99d2d5fef8a99ad2e/artifacts
+end_time: 1711612544457
+entry_point_name: ''
+experiment_id: '651949166381951733'
+lifecycle_stage: active
+run_id: a523b2c6c6c741a99d2d5fef8a99ad2e
+run_name: unique-goose-813
+run_uuid: a523b2c6c6c741a99d2d5fef8a99ad2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711611800926
+status: 3
+tags: []
+user_id: hp

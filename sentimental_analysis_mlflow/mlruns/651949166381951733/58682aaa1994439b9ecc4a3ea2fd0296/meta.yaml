@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hp/Desktop/internship/mlops/sentimental_analysis_mlflow/mlruns/651949166381951733/58682aaa1994439b9ecc4a3ea2fd0296/artifacts
+end_time: 1711614072921
+entry_point_name: ''
+experiment_id: '651949166381951733'
+lifecycle_stage: active
+run_id: 58682aaa1994439b9ecc4a3ea2fd0296
+run_name: victorious-crow-472
+run_uuid: 58682aaa1994439b9ecc4a3ea2fd0296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711614018817
+status: 3
+tags: []
+user_id: hp

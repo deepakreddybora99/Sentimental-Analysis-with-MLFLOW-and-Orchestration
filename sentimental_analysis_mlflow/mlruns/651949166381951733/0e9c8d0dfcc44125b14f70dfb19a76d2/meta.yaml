@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hp/Desktop/internship/mlops/sentimental_analysis_mlflow/mlruns/651949166381951733/0e9c8d0dfcc44125b14f70dfb19a76d2/artifacts
+end_time: 1711611797022
+entry_point_name: ''
+experiment_id: '651949166381951733'
+lifecycle_stage: active
+run_id: 0e9c8d0dfcc44125b14f70dfb19a76d2
+run_name: stylish-goose-962
+run_uuid: 0e9c8d0dfcc44125b14f70dfb19a76d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711611754150
+status: 3
+tags: []
+user_id: hp

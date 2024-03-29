@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hp/Desktop/internship/mlops/sentimental_analysis_mlflow/mlruns/651949166381951733/f6e58e8e2f0a47cda02df18f5aef8807/artifacts
+end_time: 1711611751723
+entry_point_name: ''
+experiment_id: '651949166381951733'
+lifecycle_stage: active
+run_id: f6e58e8e2f0a47cda02df18f5aef8807
+run_name: wise-mare-191
+run_uuid: f6e58e8e2f0a47cda02df18f5aef8807
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711611727842
+status: 3
+tags: []
+user_id: hp

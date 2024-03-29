@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hp/Desktop/internship/mlops/sentimental_analysis_mlflow/mlruns/651949166381951733/284a42f014c44a72bcc0282928b50d27/artifacts
+end_time: 1711614015601
+entry_point_name: ''
+experiment_id: '651949166381951733'
+lifecycle_stage: active
+run_id: 284a42f014c44a72bcc0282928b50d27
+run_name: nosy-panda-974
+run_uuid: 284a42f014c44a72bcc0282928b50d27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711613992846
+status: 3
+tags: []
+user_id: hp

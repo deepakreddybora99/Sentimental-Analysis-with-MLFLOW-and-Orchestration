@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hp/Desktop/internship/mlops/sentimental_analysis_mlflow/mlruns/651949166381951733/7fa22dc71b8a4d7589723174ee3e414b/artifacts
+end_time: 1711614072921
+entry_point_name: ''
+experiment_id: '651949166381951733'
+lifecycle_stage: active
+run_id: 7fa22dc71b8a4d7589723174ee3e414b
+run_name: amusing-tern-719
+run_uuid: 7fa22dc71b8a4d7589723174ee3e414b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711614018817
+status: 3
+tags: []
+user_id: hp

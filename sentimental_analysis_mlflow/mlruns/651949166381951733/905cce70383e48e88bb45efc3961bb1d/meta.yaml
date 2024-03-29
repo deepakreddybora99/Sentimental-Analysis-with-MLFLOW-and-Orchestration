@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hp/Desktop/internship/mlops/sentimental_analysis_mlflow/mlruns/651949166381951733/905cce70383e48e88bb45efc3961bb1d/artifacts
+end_time: 1711611797022
+entry_point_name: ''
+experiment_id: '651949166381951733'
+lifecycle_stage: active
+run_id: 905cce70383e48e88bb45efc3961bb1d
+run_name: colorful-asp-917
+run_uuid: 905cce70383e48e88bb45efc3961bb1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711611754150
+status: 3
+tags: []
+user_id: hp

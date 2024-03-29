@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hp/Desktop/internship/mlops/sentimental_analysis_mlflow/mlruns/651949166381951733/7d072b17a6bf49c19ce9c857158615a6/artifacts
+end_time: 1711614015601
+entry_point_name: ''
+experiment_id: '651949166381951733'
+lifecycle_stage: active
+run_id: 7d072b17a6bf49c19ce9c857158615a6
+run_name: casual-jay-257
+run_uuid: 7d072b17a6bf49c19ce9c857158615a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711613992846
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hp/Desktop/internship/mlops/sentimental_analysis_mlflow/mlruns/651949166381951733/17c11420f73e4946a4a9287b996e491b/artifacts
+end_time: 1711611797022
+entry_point_name: ''
+experiment_id: '651949166381951733'
+lifecycle_stage: active
+run_id: 17c11420f73e4946a4a9287b996e491b
+run_name: sedate-fowl-696
+run_uuid: 17c11420f73e4946a4a9287b996e491b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711611754150
+status: 3
+tags: []
+user_id: hp

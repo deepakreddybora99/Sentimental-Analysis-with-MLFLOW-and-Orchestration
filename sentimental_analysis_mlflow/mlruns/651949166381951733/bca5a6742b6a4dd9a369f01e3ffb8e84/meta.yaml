@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hp/Desktop/internship/mlops/sentimental_analysis_mlflow/mlruns/651949166381951733/bca5a6742b6a4dd9a369f01e3ffb8e84/artifacts
+end_time: 1711612544457
+entry_point_name: ''
+experiment_id: '651949166381951733'
+lifecycle_stage: active
+run_id: bca5a6742b6a4dd9a369f01e3ffb8e84
+run_name: funny-hog-755
+run_uuid: bca5a6742b6a4dd9a369f01e3ffb8e84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711611800926
+status: 3
+tags: []
+user_id: hp

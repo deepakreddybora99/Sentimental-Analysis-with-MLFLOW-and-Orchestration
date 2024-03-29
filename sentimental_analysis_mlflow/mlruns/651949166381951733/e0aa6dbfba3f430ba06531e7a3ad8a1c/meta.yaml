@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hp/Desktop/internship/mlops/sentimental_analysis_mlflow/mlruns/651949166381951733/e0aa6dbfba3f430ba06531e7a3ad8a1c/artifacts
+end_time: 1711611797022
+entry_point_name: ''
+experiment_id: '651949166381951733'
+lifecycle_stage: active
+run_id: e0aa6dbfba3f430ba06531e7a3ad8a1c
+run_name: amusing-panda-604
+run_uuid: e0aa6dbfba3f430ba06531e7a3ad8a1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711611754150
+status: 3
+tags: []
+user_id: hp

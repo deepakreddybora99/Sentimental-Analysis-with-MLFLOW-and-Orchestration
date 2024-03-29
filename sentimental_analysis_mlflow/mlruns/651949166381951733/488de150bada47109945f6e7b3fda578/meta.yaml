@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hp/Desktop/internship/mlops/sentimental_analysis_mlflow/mlruns/651949166381951733/488de150bada47109945f6e7b3fda578/artifacts
+end_time: 1711611751723
+entry_point_name: ''
+experiment_id: '651949166381951733'
+lifecycle_stage: active
+run_id: 488de150bada47109945f6e7b3fda578
+run_name: bedecked-wolf-583
+run_uuid: 488de150bada47109945f6e7b3fda578
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711611727842
+status: 3
+tags: []
+user_id: hp

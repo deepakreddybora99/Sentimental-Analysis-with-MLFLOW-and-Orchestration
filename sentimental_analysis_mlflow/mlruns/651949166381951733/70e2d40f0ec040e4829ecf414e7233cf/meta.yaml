@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hp/Desktop/internship/mlops/sentimental_analysis_mlflow/mlruns/651949166381951733/70e2d40f0ec040e4829ecf414e7233cf/artifacts
+end_time: 1711614775047
+entry_point_name: ''
+experiment_id: '651949166381951733'
+lifecycle_stage: active
+run_id: 70e2d40f0ec040e4829ecf414e7233cf
+run_name: polite-wren-424
+run_uuid: 70e2d40f0ec040e4829ecf414e7233cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711614078944
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hp/Desktop/internship/mlops/sentimental_analysis_mlflow/mlruns/651949166381951733/50d8eb779dd94fdeb2c796059cff8145/artifacts
+end_time: 1711614015601
+entry_point_name: ''
+experiment_id: '651949166381951733'
+lifecycle_stage: active
+run_id: 50d8eb779dd94fdeb2c796059cff8145
+run_name: kindly-fowl-223
+run_uuid: 50d8eb779dd94fdeb2c796059cff8145
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711613992846
+status: 3
+tags: []
+user_id: hp

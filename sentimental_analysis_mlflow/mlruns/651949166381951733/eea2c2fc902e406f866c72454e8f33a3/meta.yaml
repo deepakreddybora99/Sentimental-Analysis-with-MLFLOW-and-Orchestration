@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hp/Desktop/internship/mlops/sentimental_analysis_mlflow/mlruns/651949166381951733/eea2c2fc902e406f866c72454e8f33a3/artifacts
+end_time: 1711612544457
+entry_point_name: ''
+experiment_id: '651949166381951733'
+lifecycle_stage: active
+run_id: eea2c2fc902e406f866c72454e8f33a3
+run_name: silent-doe-620
+run_uuid: eea2c2fc902e406f866c72454e8f33a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711611800926
+status: 3
+tags: []
+user_id: hp

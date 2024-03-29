@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hp/Desktop/internship/mlops/sentimental_analysis_mlflow/mlruns/651949166381951733/a5d1bf32ea3a4a2f9dea70af4d8d255e/artifacts
+end_time: 1711611751723
+entry_point_name: ''
+experiment_id: '651949166381951733'
+lifecycle_stage: active
+run_id: a5d1bf32ea3a4a2f9dea70af4d8d255e
+run_name: merciful-stag-595
+run_uuid: a5d1bf32ea3a4a2f9dea70af4d8d255e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711611727842
+status: 3
+tags: []
+user_id: hp

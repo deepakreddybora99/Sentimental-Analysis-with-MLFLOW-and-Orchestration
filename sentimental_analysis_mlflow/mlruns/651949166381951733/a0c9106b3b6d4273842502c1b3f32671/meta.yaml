@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hp/Desktop/internship/mlops/sentimental_analysis_mlflow/mlruns/651949166381951733/a0c9106b3b6d4273842502c1b3f32671/artifacts
+end_time: 1711612544457
+entry_point_name: ''
+experiment_id: '651949166381951733'
+lifecycle_stage: active
+run_id: a0c9106b3b6d4273842502c1b3f32671
+run_name: gaudy-dolphin-863
+run_uuid: a0c9106b3b6d4273842502c1b3f32671
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711611800926
+status: 3
+tags: []
+user_id: hp

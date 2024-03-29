@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hp/Desktop/internship/mlops/sentimental_analysis_mlflow/mlruns/651949166381951733/76c6610ed122435081709201337049d7/artifacts
+end_time: 1711614775047
+entry_point_name: ''
+experiment_id: '651949166381951733'
+lifecycle_stage: active
+run_id: 76c6610ed122435081709201337049d7
+run_name: righteous-vole-555
+run_uuid: 76c6610ed122435081709201337049d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711614078944
+status: 3
+tags: []
+user_id: hp

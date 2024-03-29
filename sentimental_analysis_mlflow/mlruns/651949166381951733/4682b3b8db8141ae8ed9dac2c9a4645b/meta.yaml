@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hp/Desktop/internship/mlops/sentimental_analysis_mlflow/mlruns/651949166381951733/4682b3b8db8141ae8ed9dac2c9a4645b/artifacts
+end_time: 1711612544457
+entry_point_name: ''
+experiment_id: '651949166381951733'
+lifecycle_stage: active
+run_id: 4682b3b8db8141ae8ed9dac2c9a4645b
+run_name: unequaled-dove-464
+run_uuid: 4682b3b8db8141ae8ed9dac2c9a4645b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711611800926
+status: 3
+tags: []
+user_id: hp

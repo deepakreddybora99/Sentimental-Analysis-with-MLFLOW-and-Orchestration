@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hp/Desktop/internship/mlops/sentimental_analysis_mlflow/mlruns/651949166381951733/2436743d5b2f4dfc93094b9b0aa97603/artifacts
+end_time: 1711612544457
+entry_point_name: ''
+experiment_id: '651949166381951733'
+lifecycle_stage: active
+run_id: 2436743d5b2f4dfc93094b9b0aa97603
+run_name: enthused-whale-255
+run_uuid: 2436743d5b2f4dfc93094b9b0aa97603
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711611800926
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hp/Desktop/internship/mlops/sentimental_analysis_mlflow/mlruns/651949166381951733/e74068d3e937460c8d55d375c8acf2e3/artifacts
+end_time: 1711611751723
+entry_point_name: ''
+experiment_id: '651949166381951733'
+lifecycle_stage: active
+run_id: e74068d3e937460c8d55d375c8acf2e3
+run_name: wistful-smelt-564
+run_uuid: e74068d3e937460c8d55d375c8acf2e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711611727842
+status: 3
+tags: []
+user_id: hp

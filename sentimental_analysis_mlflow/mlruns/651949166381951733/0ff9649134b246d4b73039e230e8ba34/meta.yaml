@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hp/Desktop/internship/mlops/sentimental_analysis_mlflow/mlruns/651949166381951733/0ff9649134b246d4b73039e230e8ba34/artifacts
+end_time: 1711614775047
+entry_point_name: ''
+experiment_id: '651949166381951733'
+lifecycle_stage: active
+run_id: 0ff9649134b246d4b73039e230e8ba34
+run_name: upbeat-loon-39
+run_uuid: 0ff9649134b246d4b73039e230e8ba34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711614078944
+status: 3
+tags: []
+user_id: hp

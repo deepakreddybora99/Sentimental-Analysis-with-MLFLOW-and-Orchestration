@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hp/Desktop/internship/mlops/sentimental_analysis_mlflow/mlruns/651949166381951733/c2148133d1ed41f79486bbb5c9655e30/artifacts
+end_time: 1711614072921
+entry_point_name: ''
+experiment_id: '651949166381951733'
+lifecycle_stage: active
+run_id: c2148133d1ed41f79486bbb5c9655e30
+run_name: overjoyed-elk-529
+run_uuid: c2148133d1ed41f79486bbb5c9655e30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711614018817
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/hp/Desktop/internship/mlops/sentimental_analysis_mlflow/mlruns/651949166381951733/c2962e95db114b9895df8b6bc36e6abf/artifacts
+end_time: 1711611751723
+entry_point_name: ''
+experiment_id: '651949166381951733'
+lifecycle_stage: active
+run_id: c2962e95db114b9895df8b6bc36e6abf
+run_name: stylish-sow-556
+run_uuid: c2962e95db114b9895df8b6bc36e6abf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711611727842
+status: 3
+tags: []
+user_id: hp
